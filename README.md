@@ -61,3 +61,11 @@ This project answers key analytical questions using Olympic data, visualizations
 - **SQL** (MySQL) — for querying and analysis
 - **Excel / Power BI / Python (optional)** — for visualizations
 - **Git** & **GitHub** — for version control and collaboration
+
+
+
+
+🧠 Credits
+Made with 💪 and 🧠 by Madhusudhan
+
+
